@@ -3,7 +3,6 @@ Datacenter passive cooling with updraft and PV power generation.
 
 Nearly the entire input energy of a data center is turned into heat. Plus, the exhaust heat of turbines, all that heat can be used to run an updraft turbine, 24/7.
 
-<img src="dataCenter-turnHeatIntoEngery.png" width="800">
 <img width="800" height="842" alt="image" src="https://github.com/user-attachments/assets/b8ba0755-ca27-438a-af4d-1881406a69a4" />
 
 
