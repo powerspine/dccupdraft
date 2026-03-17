@@ -1,5 +1,7 @@
 # dccupdraft
-Datacenter passive cooling with updraft and PV power generation
+Datacenter passive cooling with updraft and PV power generation.
+
+Nearly the entire input energy of a data center is turned into heat. Plus, the exhaust heat of turbines, all that heat can be used to run an updraft turbine, 24/7.
 
 <img src="dataCenter-turnHeatIntoEngery.png" width="800">
 
